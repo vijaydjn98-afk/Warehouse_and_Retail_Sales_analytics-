@@ -12,3 +12,4 @@
 
 <img width="3000" height="1800" alt="Monthly Retail Sales Trend" src="https://github.com/user-attachments/assets/c5ad7bb7-3540-4846-a1ec-a230901207c1" />
 
+<img width="1654" height="2339" alt="8b19a7cd-1" src="https://github.com/user-attachments/assets/a102f632-b7fe-48a6-a041-19d4445a5012" />
